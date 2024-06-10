@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.coll{
+    background: rgb(8,8,8);
+    background: linear-gradient(0deg, rgba(8,8,8,0.7553615196078431) 27%, rgba(10,9,10,0.0214679621848739) 87%);
+}
+.radio{
+    accent-color: red;
+    background-color: #ef4f5f
+}
